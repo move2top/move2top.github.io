@@ -1,7 +1,3 @@
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-
 ##### －－－－－－－－－－－**新闻～搜索**－－－－－－－－－－－
 
 **搜索**：[duckduckgo](https://duckduckgo.com) [dogedoge](https://www.dogedoge.com/) [Bing](https://cn.bing.com) [谷歌](https://www.google.com) [百度](http://www.baidu.com/) [QQ导航](http://hao.qq.com/) [维基百科](http://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5) [Answers](http://www.answers.com/) [WikiHow](https://zh.wikihow.com)
