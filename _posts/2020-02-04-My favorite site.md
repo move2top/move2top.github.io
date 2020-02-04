@@ -43,7 +43,7 @@
 ) [易家电子](http://www.ejdz.cn/) [IC-on-line](http://www.ic-on-line.cn/) [Alldatasheet](http://www.alldatasheet.com/)  
 **其它**：[电池论坛](http://club.battery.com.cn/) [木工爱好者](http://www.zuojiaju.com/) [5iMX](http://bbs.5imx.com/bbs/index.php) [模型中国](http://bbs.mx3g.com/) [爱表族](http://www.iwatch365.com/forum.php) [手电大家谈](http://www.shoudian.org/forum.php) [一灯论坛](http://bbs.ledcax.com/portal.php)
 
-##### －－－－－－－－－－－**其～～～它**－－－－－－－－－－－
+##### －－－－－－－－－－－**其～～它**－－－－－－－－－－－
 
 **金融**：[支付宝](https://www.alipay.com/) [工行](http://www.icbc.com.cn/) [中行](http://www.boc.cn/) [浙江农信](http://www.zj96596.com/)[财经网](http://www.dailyfx.com.hk/) [CFTC监管](https://www.cftc.gov/) [Fxpro中文](https://direct.fxpro.com/?lang=cn) [汇客](http://www.onefx.net/) [外汇堂](http://www.forex-town.com/)  
 **二手**：[58同城](http://lishui.58.com/) [赶集网](http://lishui.ganji.com/) [百姓网](http://lishui.baixing.com/) [太平洋2手](http://itbbs.pconline.com.cn/es/) [中关村2手](http://diybbs.zol.com.cn/subcate_list_300.html) [PCinlife2手](http://we.pcinlife.com/forum-23-1.html)  
