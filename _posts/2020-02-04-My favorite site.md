@@ -1,6 +1,6 @@
 ##### －－－－－－－－－－－**新闻～搜索**－－－－－－－－－－－
 
-**搜索**：[duckduckgo](https://duckduckgo.com) [dogedoge](https://www.dogedoge.com/) [Bing](https://cn.bing.com) [谷歌](https://www.google.com) [百度](http://www.baidu.com/) [QQ导航](http://hao.qq.com/) [维基百科](http://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5) [Answers](http://www.answers.com/) [WikiHow](https://zh.wikihow.com)  
+**搜索**：[duckduckgo](https://duckduckgo.com) [dogedoge](https://www.dogedoge.com/) [Bing](https://cn.bing.com) [谷歌](https://www.google.com) [百度](http://www.baidu.com/_blank) [QQ导航](http://hao.qq.com/) [维基百科](http://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5) [Answers](http://www.answers.com/) [WikiHow](https://zh.wikihow.com)  
 **门户**：[新浪](http://www.sina.com.cn/) [搜狐](http://www.sohu.com/) [网易](http://www.163.com/) [抽屉新热榜](http://www.chouti.com/) [倾城之链](https://nicelinks.site/explore/all) [Segmentfault](https://segmentfault.com/) [博客园](http://www.cnblogs.com/)  
 **丽水**：[丽水信息港](http://www.inlishui.com/) [丽水图书馆](http://www.lslibrary.com/) [莲都政府](http://www.liandu.gov.cn/) [莲都问政直通车](http://www.lsnews.com.cn/ldwz/) [浙江移动](http://service.zj.10086.cn/) [移动邮箱](http://mail.139.com/)  
 **素材**：[爱给网](http://www.aigei.com/) [站长素材](http://sc.chinaz.com/)  
