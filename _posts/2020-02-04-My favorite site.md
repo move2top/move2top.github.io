@@ -16,6 +16,7 @@
 **购物**：[淘宝](http://www.taobao.com/) [亚马逊](http://www.amazon.cn/) [京东](http://www.jd.com/) [京东2手](http://2.jd.com/) [新蛋](http://www.newegg.com.cn/) [苏宁](http://www.suning.com/) [国美](http://www.gome.com.cn/) [什么值得买](http://www.smzdm.com/)
 
 #####－－－－－－－－－－－**数码～电脑**－－－－－－－－－－－
+
 **安卓**：[酷安](http://www.coolapk.com/) [机锋](http://bbs.gfan.com/) [手机中国](http://www.cnmo.com/) [爱搞机](http://www.igao7.com/) [少数派](http://sspai.com/) [Mobilism](http://forum.mobilism.org/index.php)
 **谷歌**：[谷歌市场](https://play.google.com/) [ApkPure](https://apkpure.com/) [ApkMirror](http://www.apkmirror.com/) [Apk下载](http://apks.org/) [查找设备](https://www.google.com/android/devicemanager) [Airdroid](http://web.airdroid.com/) [电视家网](http://www.tvapk.net/)
 **硬件**：[外设天下](http://www.pcwaishe.cn/) [宽带技术](http://www.chinadsl.net/) [恩山无线](http://www.right.com.cn/forum/index.php) [无线论坛](http://www.anywlan.com/) [充电头网](http://www.chongdiantou.com/)
@@ -29,6 +30,7 @@
 **Python**：[PythonTutorial](https://docs.python.org/3.6/tutorial/index.html) [python标准库](https://pymotw.com/3/) [Matplotlib](https://matplotlib.org/) [Sublime](https://www.sublimetext.com/) [Sublime插件](https://packagecontrol.io/) [PythonCrashCourse](https://ehmatthes.github.io/pcc/index.html) [廖雪峰](https://www.liaoxuefeng.com/) [python中文社区](http://www.pythontab.com/)
 
 #####－－－－－－－－－－－**天文～爱好**－－－－－－－－－－－
+
 **天文**：[牧夫](http://www.astronomy.com.cn/bbs/) [天之文](http://bbs.astron.ac.cn/forum.php) [知乎](https://www.zhihu.com/) [涡喷爱好者](http://www.chnjet.com/)
 **摄影**：[摄影入门](http://www.fotobeginner.com/) [无忌](http://forum.xitek.com/forum.php) [蜂鸟](http://www.fengniao.com/) [Poco](http://www.poco.cn/) [摄影空间](http://photo.163.com/bigeeye/feed/) [百度脑图](http://naotu.baidu.com/home)
 **科学**：[科学松鼠会](http://songshuhui.net/) [果壳网](http://www.guokr.com/) [科技论坛](http://www.tech-domain.com/) [宇宙的心弦](http://www.physixfan.com/) [极客迷](http://www.geekfans.com/portal.php) [科创论坛](https://www.kechuang.org/)
@@ -42,6 +44,7 @@
 **其它**：[电池论坛](http://club.battery.com.cn/) [木工爱好者](http://www.zuojiaju.com/) [5iMX](http://bbs.5imx.com/bbs/index.php) [模型中国](http://bbs.mx3g.com/) [爱表族](http://www.iwatch365.com/forum.php) [手电大家谈](http://www.shoudian.org/forum.php) [一灯论坛](http://bbs.ledcax.com/portal.php)
 
 #####－－－－－－－－－－－**其～～～它**－－－－－－－－－－－
+
 **金融**：[支付宝](https://www.alipay.com/) [工行](http://www.icbc.com.cn/) [中行](http://www.boc.cn/) [浙江农信](http://www.zj96596.com/)[财经网](http://www.dailyfx.com.hk/) [CFTC监管](https://www.cftc.gov/) [Fxpro中文](https://direct.fxpro.com/?lang=cn) [汇客](http://www.onefx.net/) [外汇堂](http://www.forex-town.com/)
 **二手**：[58同城](http://lishui.58.com/) [赶集网](http://lishui.ganji.com/) [百姓网](http://lishui.baixing.com/) [太平洋2手](http://itbbs.pconline.com.cn/es/) [中关村2手](http://diybbs.zol.com.cn/subcate_list_300.html) [PCinlife2手](http://we.pcinlife.com/forum-23-1.html)
 **厂商**：[realme社区](https://www.realmebbs.com/board/detail/1154606252043546624) [小米](https://www.mi.com/) [苹果](http://www.apple.com/cn/) [华为商城](http://www.vmall.com/) [NVIDIA](http://www.geforce.cn/) [库管易](http://www.kuguanyi.com/)
