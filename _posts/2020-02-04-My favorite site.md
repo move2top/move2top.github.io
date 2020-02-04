@@ -37,9 +37,9 @@
 **家电**：[家电论坛](http://www.jd-bbs.com/) [耳机俱乐部](http://www.erji.net/) [耳机大家谈](http://www.erji.net/) [耳机论坛](http://www.51erji.com/)  [基点俱乐部](http://www.mydcentre.com/forum.php)  
 **汽车**：[汽车之家](http://www.autohome.com.cn/) [拆车坊](http://chaiche.chexun.com/) [新车评网](http://www.xincheping.com/) [爱卡机油](http://www.xcar.com.cn/bbs/forumdisplay.php?fid=118) [宝马车友会](http://bbs.bmwsky.com/forum-25-1.html)  
 **机车**：[MotoYes](http://www.motoyes.cn) [摩托吧](http://www.moto8.com/) [摩托迷](http://www.chyangwa.net/) [电动车发烧友](http://www.xici.net/b1229483/)  
-**单车**：[行者](http://www.imxingzhe.com/) [Chinabike](http://bbs.chinabike.net/forum.php) [77bike](http://bbs.77bike.com/) [中国折叠车](http://www.xn--fiqu2lkyct9qvs8c.com/) [6只脚](http://www.foooooot.com/) [跑步圣经](http://bbs.runbible.cn/)  
+**单车**：[行者](http://www.imxingzhe.com/) [Chinabike](http://bbs.chinabike.net/forum.php) [77bike](http://bbs.77bike.com/) [中国折叠车](http://www.xn--fiqu2lkyct9qvs8c.com/) [6只脚](http://www.foooooot.com/) [跑步圣经](http://bbs.runbible.cn/)  
 **电子**：[矿石收音机](http://www.crystalradio.cn) [胆艺轩](http://www.tubebbs.com/) [我要电子](http://www.51dz.com) [阿莫电子](http://www.ourdev.cn/bbs/) [38度](http://bbs.38hot.net/) [电子发烧友论坛](http://bbs.elecfans.com/portal.php)  
-**资料**：[电路城]([https://www.cirmall.com/](https://www.cirmall.com/)  
+**资料**：[电路城](https://www.cirmall.com/)  
 ) [易家电子](http://www.ejdz.cn/) [IC-on-line](http://www.ic-on-line.cn/) [Alldatasheet](http://www.alldatasheet.com/)  
 **其它**：[电池论坛](http://club.battery.com.cn/) [木工爱好者](http://www.zuojiaju.com/) [5iMX](http://bbs.5imx.com/bbs/index.php) [模型中国](http://bbs.mx3g.com/) [爱表族](http://www.iwatch365.com/forum.php) [手电大家谈](http://www.shoudian.org/forum.php) [一灯论坛](http://bbs.ledcax.com/portal.php)
 
