@@ -12,7 +12,7 @@
 **电影**：[奥斯卡](http://theater.mtime.com/China_Zhejiang_Province_Lishui_LianDouQu/1721/) [兴鑫](http://theater.mtime.com/China_Zhejiang_Province_Lishui_LianDouQu/4299/) [万地](http://theater.mtime.com/China_Zhejiang_Province_Lishui_LianDouQu/4336/) [时代](http://theater.mtime.com/China_Zhejiang_Province_Lishui_LianDouQu/3689/) [电影天堂](http://www.dygod.org/index.html) [HdSky](http://www.hdsky.net/) [4K中国](https://www.4k123.com/) [茶杯狐](https://www.cupfox.com/) [BT电影天堂](http://www.pianbt.com/)  
 **视频**：[Youtube](http://www.youtube.com/) [bilibili](http://www.bilibili.com/) [优酷](http://ding.youku.com/u/subscribeUpdate?spm=a2hww.11359951.uerCenter.5!2~5~A) [腾讯](http://v.qq.com/) [爱奇艺](http://www.qiyi.com/) [CCTV](http://tv.cctv.com/epg/?spm=C28340.P9dhkRStLqPh.EYq0LGFLODJm.3) [youtube下载](http://www.clipconverter.cc/) [下载youtube](http://en.savefrom.net/)  
 **音乐**：[虾米音乐](http://www.xiami.com/) [qq音乐](http://y.qq.com/#type=index)  
-**图片**：[谷歌图片优化](https://squoosh.app/) [抠图](https://www.remove.bg/) [AI放大](http://bigjpg.com/) [图片压缩](https://shortpixel.com/online-image-compression) [透明png](http://www.stickpng.com/) [WallCat壁纸](https://beta.wall.cat/)  
+**图片**：[TinyPNG](https://tinypng.com/) [谷歌图片优化](https://squoosh.app/) [抠图](https://www.remove.bg/) [AI放大](http://bigjpg.com/) [图片压缩](https://shortpixel.com/online-image-compression) [透明png](http://www.stickpng.com/) [WallCat壁纸](https://beta.wall.cat/)  
 **购物**：[淘宝](http://www.taobao.com/) [亚马逊](http://www.amazon.cn/) [京东](http://www.jd.com/) [京东2手](http://2.jd.com/) [新蛋](http://www.newegg.com.cn/) [苏宁](http://www.suning.com/) [国美](http://www.gome.com.cn/) [什么值得买](http://www.smzdm.com/)
 
 ### －－－－－－－－－－－**数码～电脑**－－－－－－－－－－－
