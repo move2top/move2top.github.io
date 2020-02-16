@@ -48,7 +48,7 @@
 **二手**：[58同城](http://lishui.58.com/) [赶集网](http://lishui.ganji.com/) [百姓网](http://lishui.baixing.com/) [太平洋2手](http://itbbs.pconline.com.cn/es/) [中关村2手](http://diybbs.zol.com.cn/subcate_list_300.html) [PCinlife2手](http://we.pcinlife.com/forum-23-1.html)  
 **厂商**：[realme社区](https://www.realmebbs.com/board/detail/1154606252043546624) [小米](https://www.mi.com/) [苹果](http://www.apple.com/cn/) [华为商城](http://www.vmall.com/) [NVIDIA](http://www.geforce.cn/) [库管易](http://www.kuguanyi.com/)  
 **企业**：[中华英才网](http://www.chinahr.com/) [智联招聘](http://www.zhaopin.com/) [前程无忧](http://www.51job.com/) [企业信用查询](http://gsxt.saic.gov.cn)  
-**小说**：[评书下载](http://www.5ips.net/) [蚂蚁阅读](http://www.mayitxt.com/) [读远](http://www.readfar.com/) [奇书网](https://www.qisuu.la/) [漫画volmoe](https://volmoe.com/) [kindle漫画](http://www.kindlecomic.net/)  
+**小说**：[评书下载](http://www.5ips.net/) [蚂蚁阅读](http://www.mayitxt.com/) [读远](http://www.readfar.com/) [奇书网](https://www.qisuu.la/) [volmoe漫画](https://volmoe.com/) [kindle漫画](http://www.kindlecomic.net/)  
 **搜书**：[鸠摩搜书](https://www.jiumodiary.com/) [万千合集站](http://www.hejizhan.com/bbs/) [周读](http://www.ireadweek.com/) [子午书简](https://5kindle.com/) [苦瓜书盘](https://kgbook.com/)  
 **读书**：[360doc](http://www.360doc.com/) [西东网](http://xidong.net/) [图灵社区](http://www.ituring.com.cn/) [云海图书](http://www.pdfbook.cn/) [计算机书籍控](http://bestcbooks.com/) [好读书柜](http://haodoo.net/)  
 **英文**：[英文小说网](http://novel.tingroom.com/) [Finelybook](http://finelybook.com/) [Manybooks](https://manybooks.net/)  
