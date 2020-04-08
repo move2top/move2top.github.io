@@ -14,6 +14,7 @@
 **音乐**：[虾米音乐](http://www.xiami.com/) [qq音乐](http://y.qq.com/#type=index)  
 **图片**：[TinyPNG](https://tinypng.com/) [谷歌图片优化](https://squoosh.app/) [抠图](https://www.remove.bg/) [AI放大](http://bigjpg.com/) [图片压缩](https://shortpixel.com/online-image-compression) [透明png](http://www.stickpng.com/) [WallCat壁纸](https://beta.wall.cat/)  
 **购物**：[淘宝](http://www.taobao.com/) [亚马逊](http://www.amazon.cn/) [京东](http://www.jd.com/) [京东2手](http://2.jd.com/) [新蛋](http://www.newegg.com.cn/) [苏宁](http://www.suning.com/) [国美](http://www.gome.com.cn/) [什么值得买](http://www.smzdm.com/)
+**剪辑**：[牛片网](https://www.6pian.cn/) [灵云语音](https://speech.aicloud.com/) [doyoudo](https://www.doyoudo.com/)  
 
 ### －－－－－－－－－－－**数码～电脑**－－－－－－－－－－－
 
