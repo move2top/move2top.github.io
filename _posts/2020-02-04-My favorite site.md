@@ -13,7 +13,7 @@
 **视频**：[Youtube](http://www.youtube.com/) [bilibili](http://www.bilibili.com/) [优酷](http://ding.youku.com/u/subscribeUpdate?spm=a2hww.11359951.uerCenter.5!2~5~A) [腾讯](http://v.qq.com/) [爱奇艺](http://www.qiyi.com/) [剧迷](https://cn.gimy.tv/) [BT猫](https://www.btmao.cc/) [CCTV](http://tv.cctv.com/epg/?spm=C28340.P9dhkRStLqPh.EYq0LGFLODJm.3) [youtube下载](http://www.clipconverter.cc/) [下载youtube](http://en.savefrom.net/) [magnetdl](https://www.magnetdl.com/)  
 **音乐**：[虾米音乐](http://www.xiami.com/) [qq音乐](http://y.qq.com/#type=index)  
 **图片**：[TinyPNG](https://tinypng.com/) [谷歌图片优化](https://squoosh.app/) [抠图](https://www.remove.bg/) [AI放大](http://bigjpg.com/) [图片压缩](https://shortpixel.com/online-image-compression) [透明png](http://www.stickpng.com/) [WallCat壁纸](https://beta.wall.cat/)  
-**购物**：[淘宝](http://www.taobao.com/) [亚马逊](http://www.amazon.cn/) [京东](http://www.jd.com/) [京东2手](http://2.jd.com/) [新蛋](http://www.newegg.com.cn/) [苏宁](http://www.suning.com/) [国美](http://www.gome.com.cn/) [什么值得买](http://www.smzdm.com/)
+**购物**：[淘宝](http://www.taobao.com/) [亚马逊](http://www.amazon.cn/) [京东](http://www.jd.com/) [京东2手](http://2.jd.com/) [新蛋](http://www.newegg.com.cn/) [苏宁](http://www.suning.com/) [国美](http://www.gome.com.cn/) [什么值得买](http://www.smzdm.com/)  
 **剪辑**：[牛片网](https://www.6pian.cn/) [灵云语音](https://speech.aicloud.com/) [doyoudo](https://www.doyoudo.com/)  
 
 ### －－－－－－－－－－－**数码～电脑**－－－－－－－－－－－
