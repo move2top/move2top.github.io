@@ -15,7 +15,7 @@
 **音乐**：[虾米音乐](http://www.xiami.com/) [qq音乐](http://y.qq.com/#type=index)  
 **图片**：[TinyPNG](https://tinypng.com/) [Squoosh](https://squoosh.app/) [图片压缩](https://www.onlineimagetool.com/zh/) [AI放大](http://bigjpg.com/) [透明png](http://www.stickpng.com/) [WallCat壁纸](https://beta.wall.cat/) [思维导图](https://gitmind.cn/) [百度脑图](http://naotu.baidu.com/home)  
 **剪辑**：[网易见外](https://jianwai.netease.com/) [牛片网](https://www.6pian.cn/) [灵云语音](https://speech.aicloud.com/) [doyoudo](https://www.doyoudo.com/) [笔刷材质](https://www.brusheezy.com/)  
-**素材**：[爱给网](http://www.aigei.com/) [站长素材](http://sc.chinaz.com/)
+**素材**：[爱给网](http://www.aigei.com/) [站长素材](http://sc.chinaz.com/)  
 **购物**：[淘宝](http://www.taobao.com/) [亚马逊](http://www.amazon.cn/) [京东](http://www.jd.com/) [京东2手](http://2.jd.com/) [苏宁](http://www.suning.com/) [国美](http://www.gome.com.cn/) [什么值得买](http://www.smzdm.com/)
 
 ---
@@ -32,7 +32,7 @@
 **其它**：[Win绝赞应用](https://belittleyang.gitbooks.io/windows-apps-that-amaze-us/content/) [Awesome-Win](https://github.com/Awesome-Windows/Awesome) [WinZip](http://www.wenya.cn/index.html) [CrashPlan](http://www.crashplan.com/) [LinkShellExtension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) [AHK](https://autohotkey.com/) [AHK帮助](https://wyagd001.github.io/zh-cn/docs/AutoHotkey.htm) [视动力](http://www.shidongli129.xyz/)  
 **绿软**：[精品绿色](http://www.portablesoft.org/) [绿软分享](http://www.lrshare.com/) [胡萝卜周](http://www.carrotchou.blog/) [大眼仔](http://www.dayanzai.me/) [软件缘](https://www.appcgn.com/) [风刑](https://www.wsf1234.com/) [th-sjy汉化](http://www.th-sjy.com/)  
 **下载**：[Start64](http://www.start64.com/) [Dll-files](http://www.dll-files.com/) [PortableApps](https://portableapps.com/) [NoCmd](https://www.nocmd.com/) [腾讯软件](https://pc.qq.com/) [微PE](http://www.wepe.com.cn/) [MSDN](http://msdn.itellyou.cn/) [合集网](http://www.heji.ltd/)  
-**其它**：[小众](http://www.appinn.com/) [异次元](http://www.iplaysoft.com/) [深度论坛](http://bbs.deepin.org/) [远景论坛](http://bbs.pcbeta.com/) [Vc52](http://bbs.vc52.cn/) [Ubuntu](http://www.ubuntu.org.cn/) [秋无痕](http://bbs.realqwh.cn/)  [Sublime](https://www.sublimetext.com/) [Sublime插件](https://packagecontrol.io/)
+**其它**：[小众](http://www.appinn.com/) [异次元](http://www.iplaysoft.com/) [深度论坛](http://bbs.deepin.org/) [远景论坛](http://bbs.pcbeta.com/) [Vc52](http://bbs.vc52.cn/) [Ubuntu](http://www.ubuntu.org.cn/) [秋无痕](http://bbs.realqwh.cn/)  [Sublime](https://www.sublimetext.com/) [Sublime插件](https://packagecontrol.io/)  
 **Python**：[PythonTutorial](https://docs.python.org/3.6/tutorial/index.html) [标准库](https://pymotw.com/3/) [Matplotlib](https://matplotlib.org/) [PythonCrashCourse](https://ehmatthes.github.io/pcc/index.html) [廖雪峰](https://www.liaoxuefeng.com/) [中文社区](http://www.pythontab.com/)
 
 ---
